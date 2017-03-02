@@ -2085,7 +2085,7 @@
 	.wrapper {
 		background: #fff;
 		margin: 0 0 2em 0;
-		padding: 6em 0 6em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		.wrapper.style2 {
@@ -2346,6 +2346,10 @@
 	#content > section {
 		margin-bottom: 0;
 	}
+	
+	#main ul {
+			margin-left: 3em;
+	}
 
 /* Sidebar */
 
@@ -2369,7 +2373,7 @@
 	}
 
 		#main section:first-of-type {
-			padding-top: 2em;
+			padding-top: 1em;
 		}
 
 /* Footer */
